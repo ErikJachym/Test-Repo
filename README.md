@@ -1,2 +1,4 @@
 # Test-Repo
-Learning how the program works
+Learning How This Programs works
+
+Using Java Script 
